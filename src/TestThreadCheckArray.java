@@ -25,7 +25,7 @@ public class TestThreadCheckArray {
 			{
 				thread1.join();
 				thread2.join();
-			} 
+			} //a
 			catch (InterruptedException e)
 			{
 				e.printStackTrace();
