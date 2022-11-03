@@ -2,7 +2,7 @@ public class SharedData
 {
 	private int [] array;
 	private boolean [] winArray;
-	private boolean flag;
+	private boolean flag;//sda
 	private final int b;
 	
 	public SharedData(int[] array, int b) {
